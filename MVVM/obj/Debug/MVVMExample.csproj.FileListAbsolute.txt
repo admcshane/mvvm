@@ -1,0 +1,16 @@
+c:\users\austin\documents\visual studio 2015\Projects\MVVMExample\MVVM\bin\Debug\MVVM.exe.config
+c:\users\austin\documents\visual studio 2015\Projects\MVVMExample\MVVM\bin\Debug\MVVM.exe
+c:\users\austin\documents\visual studio 2015\Projects\MVVMExample\MVVM\bin\Debug\MVVM.pdb
+c:\users\austin\documents\visual studio 2015\Projects\MVVMExample\MVVM\obj\Debug\MVVMExample.csprojResolveAssemblyReference.cache
+c:\users\austin\documents\visual studio 2015\Projects\MVVMExample\MVVM\obj\Debug\Views\MainWindow.g.cs
+c:\users\austin\documents\visual studio 2015\Projects\MVVMExample\MVVM\obj\Debug\App.g.cs
+c:\users\austin\documents\visual studio 2015\Projects\MVVMExample\MVVM\obj\Debug\MVVM_MarkupCompile.cache
+c:\users\austin\documents\visual studio 2015\Projects\MVVMExample\MVVM\obj\Debug\MVVM_MarkupCompile.lref
+c:\users\austin\documents\visual studio 2015\Projects\MVVMExample\MVVM\obj\Debug\Views\MainWindow.baml
+c:\users\austin\documents\visual studio 2015\Projects\MVVMExample\MVVM\obj\Debug\MVVM.g.resources
+c:\users\austin\documents\visual studio 2015\Projects\MVVMExample\MVVM\obj\Debug\MVVM.Properties.Resources.resources
+c:\users\austin\documents\visual studio 2015\Projects\MVVMExample\MVVM\obj\Debug\MVVMExample.csproj.GenerateResource.Cache
+c:\users\austin\documents\visual studio 2015\Projects\MVVMExample\MVVM\obj\Debug\MVVM.exe
+c:\users\austin\documents\visual studio 2015\Projects\MVVMExample\MVVM\obj\Debug\MVVM.pdb
+c:\users\austin\documents\visual studio 2015\Projects\MVVMExample\MVVM\obj\Debug\Views\CustomerInfoView.g.cs
+c:\users\austin\documents\visual studio 2015\Projects\MVVMExample\MVVM\obj\Debug\Views\CustomerInfoView.baml
